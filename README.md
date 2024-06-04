@@ -12,3 +12,4 @@ Contributeurs été 2024
 - Derrick Tamfu
 - arlette dyna Makuete
 - Jennifer Marcotte
+- William Crépault
